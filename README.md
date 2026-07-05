@@ -1,6 +1,6 @@
 # 🔒 Handschar Ransomware
 
-![Banner](https://files.catbox.moe/sadayt.jpg)
+![Banner](https://j.top4top.io/p_3838lvhmt1.jpg)
 
 ---
 
