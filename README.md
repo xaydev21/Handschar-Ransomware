@@ -1,19 +1,17 @@
 # 🔒 Handschar Ransomware
 
-![Banner](https://via.placeholder.com/1200x400/1a1a1a/ff0000?text=HANDSCHAR+RANSOMWARE)
+![Banner](https://files.catbox.moe/sadayt.jpg)
 
-> **⚠️ EDUCATIONAL USE ONLY** – Do not run on real systems.
 
 ---
 
 ## 📌 Overview
 
-Handschar is a proof‑of‑concept ransomware that demonstrates:
+Handschar is a proof‑of‑concept ransomware:
 
 - AES‑256 encryption of all user files (documents, images, videos, archives)
 - Disables Windows Defender, Firewall, UAC, SmartScreen, System Restore
 - Permanent persistence (Run registry, Startup folder, Scheduled Tasks)
-- Changes wallpaper and icons to ransom messages
 - Real‑time GUI showing encrypted file count
 
 ---
