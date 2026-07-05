@@ -1,0 +1,2 @@
+# Handschar-Ransomware
+Ransomware
