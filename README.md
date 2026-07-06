@@ -1,6 +1,7 @@
 # 🔒 Handschar Ransomware
 
 ![Banner](https://j.top4top.io/p_3838lvhmt1.jpg)
+![Banner](https://files.catbox.moe/tjv5tb.png)
 
 ---
 
@@ -25,5 +26,5 @@ Handschar is a proof‑of‑concept ransomware:
 ## Creator
 
 ```bash
-📬 Kontak
+📬 Contact
 xaydevsupport@gmail.com
